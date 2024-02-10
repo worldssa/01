@@ -10,16 +10,6 @@
 
 =======================
 
-工具类
-
-PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
-
-Clash Verge PC客户端下载 https://github.com/clash-verge-rev/clash-verge-rev/releases
-
-安卓端 最新版酸酸乳 https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
-
-=======================
-
 最新更新可用机场
 
 #JK云 有永久流量套餐，可以长期使用（推荐） http://jkcloud.net/register?aff=aPzbeKZ8
@@ -35,4 +25,14 @@ https://www.kuromis.com
 #新主力机场 价格较高，但质量很好
 
 https://mzinv.com/uTKvZ
+
+=======================
+
+工具类
+
+PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
+
+Clash Verge PC客户端下载 https://github.com/clash-verge-rev/clash-verge-rev/releases
+
+安卓端 最新版酸酸乳 https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
 
