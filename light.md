@@ -1,4 +1,4 @@
-已使用过的机场（2024.02.10）
+已使用过的机场（2024.06.27）
 
 注 1、一次不要买太多，机场这东西经常有问题很正常，你懂的。
 
@@ -28,11 +28,24 @@ https://mzinv.com/uTKvZ
 
 =======================
 
-工具类
 
-PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
+工具类
 
 Clash Verge PC客户端下载 https://github.com/clash-verge-rev/clash-verge-rev/releases
 
-安卓端 最新版酸酸乳 https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
+PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
+
+安卓端 Clash Meta for Android客户端下载 https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+
+安卓端 最新版酸酸乳客户端下载 https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases
+
+
+=======================
+
+
+进阶技术 本地后端在线订阅转换
+
+教程：https://youtu.be/hp_YjErl2zc?si=7FQ6ggOvc4VYfm4l
+
+无法正常转换的解决方法：https://github.com/tindy2013/subconverter/issues/579
 
