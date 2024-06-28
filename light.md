@@ -33,7 +33,7 @@ https://mzinv.com/uTKvZ
 
 Clash Verge PC客户端下载 https://github.com/clash-verge-rev/clash-verge-rev/releases
 
-PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
+PC端 Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverge-shi-yong-jiao-cheng
 
 安卓端 Clash Meta for Android客户端下载 https://github.com/MetaCubeX/ClashMetaForAndroid/releases
 
@@ -46,6 +46,8 @@ PC端Clash Verge 教程 https://help.mints7.cc/mac-shi-yong-jiao-cheng/clashverg
 进阶技术 本地后端在线订阅转换
 
 教程：https://youtu.be/hp_YjErl2zc?si=7FQ6ggOvc4VYfm4l
+
+后端本地部署工具 https://github.com/tindy2013/subconverter/releases
 
 无法正常转换的解决方法：https://github.com/tindy2013/subconverter/issues/579
 
