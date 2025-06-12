@@ -1,4 +1,4 @@
-已使用过的机场（2024.06.27）
+已使用过的机场（2025.06.12）
 
 注
 
@@ -15,6 +15,11 @@
 
 
 最新更新可用机场
+
+
+#CTC-02 填优惠码一年仅需75
+
+https://www.ctc.run/#/register?code=4JGUPHpK
 
 
 #flowercloud 专线机场（推荐）
@@ -35,12 +40,6 @@ https://bygcloud.com/#/register?code=jc1zzsdl
 #Kuromis（库洛米） 倍率0.1，不用买太多流量（急用时保证质量）
 
 https://www.kuromis.com
-
-
-#新主力机场 价格较高，但质量很好
-
-https://mzinv.com/uTKvZ
-
 
 =======================
 
